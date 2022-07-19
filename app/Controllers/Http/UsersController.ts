@@ -5,4 +5,3 @@ export default class UsersController {
     return response.created({})
   }
 }
-
